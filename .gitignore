@@ -1,0 +1,26 @@
+# Ignore system & OS files
+.DS_Store
+Thumbs.db
+*.log
+AppData/
+*.db
+*.lock
+Cookies/
+Network/
+NTUSER.DAT*
+*.ini
+# Ignore IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+# Ignore Git metadata
+.git/
+.gitignore
+.ssh/
+# Ignore build & binary files
+bin/
+obj/
+build_output/
+
